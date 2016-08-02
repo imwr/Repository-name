@@ -1,4 +1,0 @@
----
-slug: generator
-name: generator
----

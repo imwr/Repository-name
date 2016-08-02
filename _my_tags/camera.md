@@ -1,4 +1,0 @@
----
-slug: camera
-name: camera
----

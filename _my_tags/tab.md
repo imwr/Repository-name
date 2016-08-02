@@ -1,4 +1,0 @@
----
-slug: tab
-name: tab
----

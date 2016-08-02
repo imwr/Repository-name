@@ -1,4 +1,0 @@
----
-slug: autoaddto
-name: autoaddto
----

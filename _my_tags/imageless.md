@@ -1,4 +1,0 @@
----
-slug: imageless
-name: imageless
----
